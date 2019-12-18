@@ -9,3 +9,4 @@ https://www.mathworks.com/matlabcentral/fileexchange/50040-jebej-matlabwebsocket
 And SampleClinet2.m is a part of SampleClient.m in the above library 
 that has been modified so that it can be used with Obniz.
 
+This software is released under the MIT License, see LICENSE.txt.
